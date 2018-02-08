@@ -1,5 +1,7 @@
 # Activist in residency (in motherhood)
 
+<img src="images/profile.jpg">
+
 ## What is it?
 
 This is a self-directed residency taking place during my parental leave. Over the next few months, between nap times and playing with my infant son, I'd like to investigate: 
