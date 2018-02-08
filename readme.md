@@ -39,21 +39,17 @@ In my residency, I'd like to find who's out there making the world "better", eng
 *  [The Big Short.](https://en.wikipedia.org/wiki/The_Big_Short_(film)) 
 *  [Four Futures: Life After Capitalism](https://www.goodreads.com/book/show/22551901-four-futures?from_search=true)
 *  [A Contest of Ideas: Capital, Politics and Labor](https://www.goodreads.com/book/show/17573412-a-contest-of-ideas) 
-*  Chapo Trap House. 
-**  [Dirt Bag Left](https://www.newyorker.com/culture/persons-of-interest/what-will-become-of-the-dirtbag-left) 
-**  [UBIsoft interview](https://soundcloud.com/chapo-trap-house/episode-123-ubisoft-feat-clio-chang-71017)
-**  [War is Heck](https://soundcloud.com/chapo-trap-house/episode-82-war-is-heck-feat-pisspiggranddad-21317)
-**  [Gaming Debate](https://www.no-cartridge.net/episode-64-live-debate-w-matt-christman-and-virgil-texas-at-the-bell-house)
+*  Chapo Trap House: [Dirt Bag Left](https://www.newyorker.com/culture/persons-of-interest/what-will-become-of-the-dirtbag-left), [UBIsoft interview](https://soundcloud.com/chapo-trap-house/episode-123-ubisoft-feat-clio-chang-71017), [War is Heck](https://soundcloud.com/chapo-trap-house/episode-82-war-is-heck-feat-pisspiggranddad-21317), [Gaming Debate](https://www.no-cartridge.net/episode-64-live-debate-w-matt-christman-and-virgil-texas-at-the-bell-house)
 
 ###  Empire
 *  [Adam Hochschild: King Leopold's Ghost](https://en.wikipedia.org/wiki/King_Leopold%27s_Ghost) 
 *  [Michela Wrong: I Didn't Do It for You: How the World Betrayed a Small African Nation](http://www.nytimes.com/2005/08/02/arts/i-didnt-do-it-for-you-how-the-world-betrayed-a-small-african-nation.html)
 *  [Thomas Pakenham: The Scramble for Africa](https://en.wikipedia.org/wiki/The_Scramble_for_Africa_(book))
-*  [From the Ruins of Empire: Pankaj Mishra](https://www.theguardian.com/books/2012/aug/05/ruins-empire-pankaj-mishra-review)
-*  [The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics: Bruce Bueno De Mesquita, Alastair Smith](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
-*  [Digital colonialism](https://www.technollama.co.uk/digital-colonialism-and-decentralisation)
-** [Can Facebook Connect the Next Billion? ](https://advox.globalvoices.org/2017/07/27/can-facebook-connect-the-next-billion/)
-	** [Twitter and Tear Gas: The Power and Fragility of Networked Protest: Zeynep Tufekci](https://www.goodreads.com/book/show/32714239-twitter-and-tear-gas)
+*  [Pankaj Mishra: From the Ruins of Empire](https://www.theguardian.com/books/2012/aug/05/ruins-empire-pankaj-mishra-review)
+*  [Bruce Bueno De Mesquita, Alastair Smith: The Dictator's Handbook: Why Bad Behavior is Almost Always Good Politics](https://www.goodreads.com/book/show/11612989-the-dictator-s-handbook)
+###  [Digital colonialism](https://www.technollama.co.uk/digital-colonialism-and-decentralisation)
+* [Can Facebook Connect the Next Billion? ](https://advox.globalvoices.org/2017/07/27/can-facebook-connect-the-next-billion/)	
+* [Zeynep Tufekci: Twitter and Tear Gas: The Power and Fragility of Networked Protest](https://www.goodreads.com/book/show/32714239-twitter-and-tear-gas)
 
 ### Local activism. 
 * [Bizem Kiez](https://www.bizim-kiez.de/) 
@@ -75,12 +71,12 @@ In my residency, I'd like to find who's out there making the world "better", eng
 * [David Pye: The Nature and Art of Workmanship](https://www.amazon.co.uk/Nature-Art-Workmanship-David-Pye/dp/0713689315/ref=pd_sim_14_6/261-5751526-4091621)
 * [Peter Korn: Why We Make Things and Why it Matters: The Education of a Craftsman](https://www.amazon.co.uk/Why-Make-Things-Matters-Education/dp/1784705063/ref=pd_sim_14_2)
 * [Enzo Mari: Autoprogettazione](https://makezine.com/2013/04/20/enzo-maris-autoprogettazione/)
-* [Design for the Real World: Human Ecology and Social Change: Victor Papanek](https://www.goodreads.com/book/show/13457380-design-for-the-real-world)
+* [Victor Papanek: Design for the Real World: Human Ecology and Social Change](https://www.goodreads.com/book/show/13457380-design-for-the-real-world)
 ### Narratives.  
 * [Joan Didion: White Album](https://en.wikipedia.org/wiki/The_White_Album_(book))
 * [Tom Wolfe: The New Journalism Anthology](https://en.wikipedia.org/wiki/The_New_Journalism)
 * [Sunvault: Solarpunk Anthology](https://www.amazon.de/Sunvault-Stories-Solarpunk-Eco-Speculation-English-ebook/dp/B071J8QD6H)
-* [The Dispossessed: Ursula Le Guin](https://en.wikipedia.org/wiki/The_Dispossessed) 
+* [Ursula Le Guin: The Dispossessed](https://en.wikipedia.org/wiki/The_Dispossessed) 
 ### Cities and urban living.  
 * [Italo Calvino: Invisible Cities](https://en.wikipedia.org/wiki/Invisible_Cities)
 * [Adam Greenfield: Radical Technologies](https://www.theguardian.com/books/2017/jul/13/radical-technologies-adam-greenfield-review) 
