@@ -1,6 +1,6 @@
 # Activist in residency (in motherhood)
 
-<img src="images/profile.jpg">
+<img src="img/profile.jpg">
 
 ## What is it?
 
