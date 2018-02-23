@@ -78,6 +78,7 @@ What role does technology play in defining "a better world"? What are the prevai
 * [Mark Dery: Flame Wars: The Discourse of Cyberculture](https://www.amazon.com/Flame-Wars-Cyberculture-Mark-Dery/dp/0822315408)
 * [Donna Haraway: A Cyborg Manifesto](https://en.wikipedia.org/wiki/A_Cyborg_Manifesto) 
 * [Frederic Laloux: Reinventing Organizations](http://www.reinventingorganizations.com/)
+* [Angela Nagle: Kill All Normies: Online Culture Wars From 4Chan And Tumblr To Trump And The Alt-Right](https://www.amazon.com/Kill-All-Normies-Culture-Alt-Right/dp/1785355430)  
 
 ### Urbanism, neighborhood activism and the "smart city".
 
@@ -92,6 +93,7 @@ How does our built environment affect our imagination of utopias and our ability
 * [Stadt von Unten](https://stadtvonunten.de/)
 * [Changing Cities e.V.](https://changing-cities.org/)
 * [Kleine Kreuzberg-Geschichte](https://www.amazon.de/Kleine-Kreuzberg-Geschichte-Martin-D%C3%BCspohl-Hg/dp/3868550003)
+* [Amber A’Lee Frost:All Worked Up and Nowhere to Go](https://thebaffler.com/outbursts/all-worked-up-nowhere-to-go-frost)
 
 ### Human development and critical pedagogy.
 
@@ -119,7 +121,7 @@ How does our vision of utopia get reflected in the design and production of good
 
 How are utopias portrayed in literature? How are narratives used to bring utopian ideas to life? What are contemporary utopian approaches in literature? What other forms does social critique in literature take? 
 
-*[Pamela Bedore: Great Utopian and Dystopian Works of Literature](https://www.goodreads.com/book/show/34144824-great-utopian-and-dystopian-works-of-literature)
+* [Pamela Bedore: Great Utopian and Dystopian Works of Literature](https://www.goodreads.com/book/show/34144824-great-utopian-and-dystopian-works-of-literature)
 * [Thomas More: Utopia](https://en.wikipedia.org/wiki/Utopia_%28book%29)
 * [Joan Didion: White Album](https://en.wikipedia.org/wiki/The_White_Album_(book))
 * [Tom Wolfe: The New Journalism Anthology](https://en.wikipedia.org/wiki/The_New_Journalism)
